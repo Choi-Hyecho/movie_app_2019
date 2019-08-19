@@ -1,3 +1,3 @@
 # movie app 2019
 
-React JS fundamentals 
+React JS study before React challenge~!
